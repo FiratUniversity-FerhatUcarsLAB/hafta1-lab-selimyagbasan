@@ -1,4 +1,31 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541111
+AD-SOYAD:Selim Yağbasan
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Seçenek: Monopoly'de en iyi seçimde
+
+- 1.Başlat
+- 2.Mülk satın alma kontrolü:
+  - Oyuncu boş bir mülke geldiyse:
+  - Eğer nakit > (mülk fiyatı + güvenlik rezervi) → satın alınır
+  - Aksi takdirde → pas geç
+  -3. Renk grubu tamamlanması:
+  - Eğer mülk, oyuncunun sahip olduğu grubun parçasıysa:
+  - Tamamlanan tüm mülkler → satın alma önceliği artırılır
+- 4.Takas önerisi:
+  - Rakiplerle takas yapılabilir mi?
+  - Renk grubu tamamlama veya stratejik engelleme varsa → takas önerilir
+-5.Ev/hotel inşası:
+  - Renk grubu tamamlanmışsa ve yeterli nakit varsa → inşa edilir
+-6. Para yönetimi:
+  - Eğer nakit < kritik eşik (örneğin 200$):
+  - Satın alma olasılığı düşürülür
+  - Gerekiyorsa → ipotek veya satış yapılır
+- 7.Ceza ve risk kontrolü:
+  - Oyuncu ceza alanlarına (vergi, hapishane, rakip oteller) yaklaşıyorsa:
+  - Nakit rezervi artırılır
+  - Riskli hamlelerden kaçınılır
+- 8.Şans/kasa kartları:
+  - Kartların etkisi tahmin edilemez → bu yüzden rezervli oynanır
+- 9.Bitir
