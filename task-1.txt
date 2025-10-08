@@ -1,4 +1,27 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541111
+AD-SOYAD:Selim Yağbasan
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+1. Başlat
+2. Malzemeleri hazırla:
+  -4 adet yumurta kır
+  -250 gram rendelenmiş kaşar peyniri ayır
+  -Bir bütün ekmek hazırla
+3. Yumurtaları Çırp:
+  -Yumurtaları bir kaba al
+  -Tuz ve karabiber ekle
+  -Homojen olana kadar çırp
+4. Tavayı hazırla:
+  -Tavayı orta ateşte ısıt
+  -1 Yemek kaşığı yağ ekle ve eriyene kadar bekle
+5.Yumurtayı dök:
+  -Çırpılmış karışımı tavaya dök
+  -Karışımın kenarları katılaşana kadar bekle
+6.Malzemeleri ekle:
+  -Ayrılan peyniri ekle
+7.Pişirme kontrolü:
+  -Yumurtanın altı altın sarısı olana kadar pişir
+8.Servis:
+  -Tavadakileri al ve tabağa koy
+  -Yanına ekmek ekle
+9.Bitir
