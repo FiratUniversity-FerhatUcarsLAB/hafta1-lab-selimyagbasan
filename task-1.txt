@@ -2,6 +2,9 @@
 AD-SOYAD:Selim Yağbasan
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Seçenek:Mükemmel omlet yapma
+
 1. Başlat
 2. Malzemeleri hazırla:
   -4 adet yumurta kır
