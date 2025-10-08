@@ -1,4 +1,37 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541111
+AD-SOYAD:Selim Yağbasan
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Seçenek:İdeal Kahve Demleme
+
+1. Başlat
+
+2. Kahve-su oranını belirle:
+   - 1 gram kahveye 15 ml su
+
+3. Su sıcaklığını ayarla:
+   - 90–96°C arası idealdir 
+
+4. Kahveyi öğüt:
+   - Demleme yöntemine göre öğütme kalınlığı seç:
+     - French press → kalın
+
+5. Demleme ekipmanını hazırla:
+   - Filtreyi yerleştir, sıcak suyla ön demleme yap (filtreyi ıslat, ekipmanı ısıt)
+
+6. Kahveyi ekle:
+   - Öğütülmüş kahveyi ekipmana dök
+
+7.Ön demleme yap:
+   - Kahvenin üstüne az miktarda su dök (kahvenin 2 katı kadar)
+   - 30–45 saniye bekle
+
+8. Ana demleme:
+   - Kalan suyu yavaşça ve dairesel hareketlerle dök
+   - Demleme süresi: 2.5–4 dakika arası
+
+9. Kahveyi süz:
+   - Filtreleme tamamlanınca kahveyi fincana dök
+
+10. Bitir
