@@ -1,4 +1,17 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541111
+AD-SOYAD:Selim Yağbasan
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Seçenek: N kişi için adil makarna paylaşımı
+
+1. Başlat
+2. Girdileri al:
+   - Makarna miktarı: M (örneğin 1000 gram)
+   - Kişi sayısı: N (örneğin 7 kişi)
+3. Kişi başına düşen miktarı hesapla:
+   - Pay = M / N 
+4. Her kişiye 'Pay' kadar makarna ver
+5. Sonuçları döndür:
+   - Her kişinin aldığı miktarı listele
+6.Bitir
