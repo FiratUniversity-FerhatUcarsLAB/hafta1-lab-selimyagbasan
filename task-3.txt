@@ -1,4 +1,14 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541111
+AD-SOYAD:Selim Yağbasan
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Seçenek: Telefon rehberini alfabetik düzenleme
+
+1.Başla
+2.Rehber lisstesini al
+3. Her kişi için "isim" alanını kontrol et
+4. Listeyi "isim" alanına göre alfabetik sırala
+5.Sıralanmış listeyi uygula
+6.Sıralanmış listeyi yazdır
+7.Bitir
