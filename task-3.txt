@@ -6,9 +6,17 @@ Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya e
 Seçenek: Telefon rehberini alfabetik düzenleme
 
 1.Başla
-2.Rehber lisstesini al
-3. Her kişi için "isim" alanını kontrol et
-4. Listeyi "isim" alanına göre alfabetik sırala
-5.Sıralanmış listeyi uygula
-6.Sıralanmış listeyi yazdır
-7.Bitir
+2.Aktif Kişileri Seç:
+- Rehberdeki her kişiyi kontrol et.
+- Eğer kişinin “aktiflik durumu” aktifse, bu kişiyi işlemeye devam et.
+- Pasif olanları liste dışı bırak.
+3.İsteğe Bağlı Şehir Filtresi:
+- Eğer kullanıcı belirli bir şehirdeki kişileri istiyorsa, sadece o şehirde yaşayanları seç.
+- İsimleri Büyük Harfe Çevir:
+- Tüm isimleri büyük harfe dönüştürerek sıralama hassasiyetini artır.
+4.Alfabetik Sıralama Yap:
+- Önce isimlere göre alfabetik sırala.
+- Aynı isim varsa, soyisimlere göre ikinci bir sıralama yap.
+5.Sonuçları Listele:
+- Sıralanmış kişileri ekrana yazdır veya bir liste olarak döndür.
+6.Bitir
