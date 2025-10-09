@@ -4,14 +4,20 @@ AD-SOYAD:Selim Yağbasan
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
 
 Seçenek: N kişi için adil makarna paylaşımı
+Girdi:
+- Toplam makarna miktarı (örneğin gram cinsinden): M
+- Kişi sayısı: N
 
 1. Başlat
 2. Girdileri al:
-   - Makarna miktarı: M (örneğin 1000 gram)
-   - Kişi sayısı: N (örneğin 7 kişi)
-3. Kişi başına düşen miktarı hesapla:
-   - Pay = M / N 
-4. Her kişiye 'Pay' kadar makarna ver
-5. Sonuçları döndür:
-   - Her kişinin aldığı miktarı listele
-6.Bitir
+   - Makarna miktarı: M
+   - Kişi sayısı: N 
+3.Toplamı ve Kişi Sayısını Kontrol Et:
+- Eğer M < N × min_ihtiyaç ise: uyarı ver, makarna yetersiz.
+- Eğer M > N × max_hak ise: herkes maksimum hakkını alır, kalan makarna artar.
+4.Temel Paylaşım:
+- Her kişiye eşit miktarda ver: pay = M / N
+- Bu değer küsuratlıysa, küsuratı en az alan kişilere sırayla ekle.
+5.Sonuçları Listele:
+- Her kişinin alacağı miktarı yaz.
+- Toplamın doğruluğunu kontrol et: dağıtılan miktar = M
